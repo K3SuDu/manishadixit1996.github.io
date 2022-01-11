@@ -11,7 +11,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Manisha Dixit 1
+# Manisha Dixit 
 ## Works in Kolonizer Real Business Solution 2
 ### we are working on IT Software 3
 
