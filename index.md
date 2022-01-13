@@ -15,5 +15,6 @@ Syntax highlighted code block
 ## Works in Kolonizer Real Business Solution 2
 ### we are working on IT Software 3
 
-1. Numbered 7000019391
+Numbered 7000019391
+
 [[file:///C:/Users/KRISHNA/Desktop/test/manisha.html]]
