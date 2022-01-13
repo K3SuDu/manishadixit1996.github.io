@@ -15,9 +15,5 @@ Syntax highlighted code block
 ## Works in Kolonizer Real Business Solution 2
 ### we are working on IT Software 3
 
-- Bulleted
-- List
-
-1. Numbered 70000193914545dhffhhfdhfdhfdfhf
-gfdfhgdrjhgdidgx
-mnn
+1. Numbered 7000019391
+[[file:///C:/Users/KRISHNA/Desktop/test/manisha.html]]
